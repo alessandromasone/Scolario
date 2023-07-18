@@ -25,10 +25,7 @@ Questo progetto è un'applicazione web denominata "SCOLARIO", pensata per le scu
 
 ## Come Iniziare
 
-1. Clona il repository utilizzando il comando:
-   ```
-   git clone https://github.com/username/masone-alessandro-scolario.git
-   ```
+1. Clona il repository
 
 2. Configura il server web e il database in base alle specifiche necessarie.
 
