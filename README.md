@@ -1,6 +1,7 @@
 # Scolario
 
-![Logo del progetto](link_al_logo.png)
+![logo](https://github.com/alessandromasone/Scolario/assets/102250754/74c753dc-d208-4eb4-92b5-85fdae588be9)
+
 
 ## Introduzione
 
