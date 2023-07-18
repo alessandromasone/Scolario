@@ -38,3 +38,7 @@ Questo progetto è un'applicazione web denominata "SCOLARIO", pensata per le scu
 ## Contributi
 
 Se desideri contribuire al progetto, puoi fare una fork di questo repository, effettuare le modifiche e inviare una pull request. Siamo aperti a ricevere suggerimenti, correzioni di bug e nuove funzionalità.
+
+## Manuale utente
+
+[Manuale utente.pdf](https://github.com/alessandromasone/Scolario/files/12081618/Manuale.utente.pdf)
