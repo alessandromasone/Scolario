@@ -1,0 +1,60 @@
+.form-global {
+    width: 100%;
+    max-width: 500px;
+    padding: 15px;
+    margin: auto;
+}
+
+.blue-fb, .blue-fb:hover {
+    background-color: #1977F2;
+    color: #fff;
+}
+
+.green-fb, .green-fb:hover {
+    background-color: #42B729;
+    color: #fff;
+}
+
+.red-fb, .red-fb:hover {
+    background-color: #F02848;
+    color: #fff;
+}
+
+.red-color-fb {
+    color: #F02848;
+}
+
+.opacity-layer {
+    opacity: 0.5;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.icon-post-custom {
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.post-it-color {
+    background-color: #fde674;
+    color: #000;
+}
+
+.zoom-in:hover {
+    transform: scale(1.1);
+}
+
+.spinner {
+    width: 100%;
+    position: fixed;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+}
+
