@@ -35,10 +35,15 @@ Questo progetto è un'applicazione web denominata "SCOLARIO", pensata per le scu
 
 5. Avvia il server e visita il sito nel tuo browser.
 
-## Contributi
-
-Se desideri contribuire al progetto, puoi fare una fork di questo repository, effettuare le modifiche e inviare una pull request. Siamo aperti a ricevere suggerimenti, correzioni di bug e nuove funzionalità.
-
 ## Manuale utente
 
 [Manuale utente.pdf](https://github.com/alessandromasone/Scolario/files/12081618/Manuale.utente.pdf)
+
+## Licenza
+
+Questo progetto è distribuito sotto la Licenza MIT - vedi il file [LICENSE](LICENSE) per ulteriori dettagli.
+
+
+## Autore
+
+Questo progetto è stato creato da [alessandromasone](https://github.com/alessandromasone).
